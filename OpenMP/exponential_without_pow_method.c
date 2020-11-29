@@ -1,6 +1,9 @@
 /*  Program to find exponential without using pow() method 
     This program was selected from a free C-language tutorial on the www.studytonight.com website
     URL: https://www.studytonight.com/c/programs/numbers/finding-exponential-without-pow()-method
+    
+    Licensing:
+    This code is distributed under the GNU LGPL license.
 
 */
 #include<stdio.h>
