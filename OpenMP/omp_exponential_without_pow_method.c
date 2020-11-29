@@ -2,9 +2,11 @@
     This program is an example of finding the power of a number without using the pow () method.
     This program is a modification of the origial code selected from a free C-language tutorial on the www.studytonight.com website
     URL: https://www.studytonight.com/c/programs/numbers/finding-exponential-without-pow()-method
-
-    OpenMP Modification:
     
+    Licensing:
+    This code is distributed under the GNU LGPL license.
+    
+    OpenMP Modification:    
     27 July 2020 by Miguel Duarte Delgado, Universidad Industrial de Santander miguel.duarte1@correo.uis.edu.co                   
     
     This modification of OpenMP makes a parallelization of the original code as well as a modification in the
