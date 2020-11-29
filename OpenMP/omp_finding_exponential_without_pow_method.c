@@ -11,6 +11,9 @@
     
     This modification of OpenMP makes a parallelization of the original code as well as a modification in the
     main loop (replacing while loop for for loop) and in the use of the variables involved.
+    
+    The modification was made due to the fact that OpenMP has no handling for a while loop and also the limited 
+    literature about the parallelization of this loop.
 */
 #include<omp.h>
 #include<stdio.h>
