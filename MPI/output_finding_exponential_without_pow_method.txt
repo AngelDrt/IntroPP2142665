@@ -1,0 +1,20 @@
+
+
+		Studytonight - Best place to learn
+
+
+Enter the number (base) and its exponential:
+
+
+ 18^-1 = 1156831381426176
+
+
+
+
+
+			Coding is Fun !
+
+
+
+  T. ejec. (2 proc.) = 17.082 ms 
+
